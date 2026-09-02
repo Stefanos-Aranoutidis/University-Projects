@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_add"   android:title="Καταγραφή" android:icon="@android:drawable/ic_input_add"/>
+    <item android:id="@+id/nav_week"  android:title="Εβδομάδα"  android:icon="@android:drawable/ic_menu_week"/>
+    <item android:id="@+id/nav_month" android:title="Μήνας"     android:icon="@android:drawable/ic_menu_month"/>
+</menu>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_add">
+
+    <fragment
+        android:id="@+id/nav_add"
+        android:name="com.example.myapplication.katagrafi.ui.Add"
+        android:label="Καταγραφή" />
+
+    <fragment
+        android:id="@+id/nav_week"
+        android:name="com.example.myapplication.katagrafi.ui.Week"
+        android:label="Εβδομάδα" />
+
+    <fragment
+        android:id="@+id/nav_month"
+        android:name="com.example.myapplication.katagrafi.ui.Month"
+        android:label="Μήνας" />
+</navigation>
+
+
