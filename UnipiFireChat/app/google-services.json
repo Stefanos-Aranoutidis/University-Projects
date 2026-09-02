@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251293523894",
+    "project_id": "unipifirechat-48453",
+    "storage_bucket": "unipifirechat-48453.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251293523894:android:5f698d5c300ddc1008ab17",
+        "android_client_info": {
+          "package_name": "com.unipi.unipifirechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE-B4qYCzC4Fa-LxZt8XTxVEr0eOm-H5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
